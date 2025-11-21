@@ -3,5 +3,6 @@
     <Project Path="SubModules/Baubit.Traceability/Baubit.Traceability.Tests/Baubit.Traceability.Tests.csproj" />
     <Project Path="SubModules/Baubit.Traceability/Baubit.Traceability/Baubit.Traceability.csproj" />
   </Folder>
+  <Project Path="Baubit.Validation.Test/Baubit.Validation.Test.csproj" Id="9cec8ea1-e936-472e-9acb-f661bedd6fff" />
   <Project Path="Baubit.Validation/Baubit.Validation.csproj" />
 </Solution>
