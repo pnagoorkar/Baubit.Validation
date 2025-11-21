@@ -17,8 +17,8 @@
     <SignAssembly>$(SignAssembly)</SignAssembly>
     <AssemblyOriginatorKeyFile>$(KeyFilePath)</AssemblyOriginatorKeyFile>
     <EmitCompilerGeneratedFiles>false</EmitCompilerGeneratedFiles>
-    <Description>TBD</Description>
-    <PackageTags>TBD</PackageTags>
+    <Description>A lightweight validation framework for .NET that provides a generic IValidator interface with FluentResults integration for clean validation patterns.</Description>
+    <PackageTags>validation;fluent-results;validator;net9;dotnet;validation-framework;data-validation;baubit</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
