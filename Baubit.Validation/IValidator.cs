@@ -4,6 +4,6 @@ namespace Baubit.Validation
 {
     public interface IValidator<T>
     {
-        public Result Run(T validatable);
+        Result Run(T validatable);
     }
 }
